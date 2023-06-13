@@ -7,4 +7,8 @@ Kodluyoruz eğitim kapsamında açtığım ilk repo
 H1 için başlık
 =
 H2 için başlık
--
+-   
+-list item 1
+-list item 2
+*list item1
+*list item 2
