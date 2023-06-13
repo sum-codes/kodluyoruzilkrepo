@@ -7,6 +7,7 @@ Kodluyoruz eğitim kapsamında açtığım ilk repo
 # H1 başlık
 ## H2 başlık
 ### H3 başlık
+-------------
 H1 için başlık
 =
 H2 için başlık
@@ -17,3 +18,4 @@ H2 için başlık
 * list item 2
 
 *italic* **bold** ***bolditalic***
+***
