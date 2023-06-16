@@ -19,3 +19,17 @@ H2 için başlık
 
 *italic* **bold** ***bolditalic***
 ***
+```
+print("Hello world")
+```
+
+```python
+print("hello world")
+```
+```javascript
+console.log("hello world")
+
+function helloworld(){
+    console.log("hello world")
+}
+```
